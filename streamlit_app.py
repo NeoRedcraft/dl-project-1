@@ -7,7 +7,7 @@ import altair as alt
 #######################
 # Page configuration
 st.set_page_config(
-    page_title="Dashboard Template", # Replace this with your Project's Title
+    page_title="Hand Sign Detection", # Replace this with your Project's Title
     page_icon="assets/icon.png", # You may replace this with a custom icon or emoji related to your project
     layout="wide",
     initial_sidebar_state="expanded")
@@ -28,7 +28,7 @@ def set_page_selection(page):
 with st.sidebar:
 
     # Sidebar Title (Change this with your project's title)
-    st.title('Dashboard Template')
+    st.title('Hand Sign Detection')
 
     # Page Button Navigation
     st.subheader("Pages")
@@ -55,8 +55,8 @@ with st.sidebar:
         st.session_state.page_selection = "conclusion"
 
     # Project Members
-    st.subheader("Members")
-    st.markdown("1. Elon Musk\n2. Jeff Bezos\n3. Sam Altman\n4. Mark Zuckerberg")
+    st.subheader("Made By:")
+    st.markdown("1. Felipe M. Panugan III\n2. Liandro E. Refulle\n3. Prince Jeffery Villamil\n4. Nicko Gabriel Baldo")
 
 #######################
 # Data
