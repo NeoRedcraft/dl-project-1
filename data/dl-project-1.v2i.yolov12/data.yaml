@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Macula', 'Nerves', 'Optic Disk']
+
+roboflow:
+  workspace: felipe-m-panugan-iii
+  project: dl-project-1-kbgc2
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/felipe-m-panugan-iii/dl-project-1-kbgc2/dataset/2
