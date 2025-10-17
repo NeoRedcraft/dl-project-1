@@ -1,3 +1,4 @@
 Normal_Fundus.zip filter=lfs diff=lfs merge=lfs -text
 Pathological_Myopia.zip filter=lfs diff=lfs merge=lfs -text
 Hypertensive_Retinopathy.zip filter=lfs diff=lfs merge=lfs -text
+Age_Related_Macular_Degeneration.zip filter=lfs diff=lfs merge=lfs -text
