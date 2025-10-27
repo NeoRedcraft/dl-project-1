@@ -15,11 +15,12 @@ These results highlight YOLOv12’s capacity for simultaneous detection and segm
 - [Kaggle - Kris Dcosta & bhavisha chafekar: ](https://www.kaggle.com/datasets/saketlad/armd-combined-dataset-fundus-and-oct/data)
 - [Kaggle - iam_achal: ](https://www.kaggle.com/datasets/iamachal/fundus-image-dataset)
 ## 📄 File Description:
-`AI2-Project-AM2-HealthPath Discovery/'
-├──`Evidence of model testing .pdf' - 
-├──'IEEE Paper Final.pdf' -
-├──'Latest_Final.ipynb'
-├──'runs/' - 
-├──'Test.v2i.yolov12/' -
-├──'Web Deployment Code' -
-├──
+<pre>
+AI2-Project-AM2-HealthPath Discovery/
+├── Evidence of model testing.pdf
+├── IEEE Paper Final.pdf
+├── Latest_Final.ipynb
+├── runs/
+├── Test.v2i.yolov12/
+└── Web Deployment Code/
+</pre>
