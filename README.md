@@ -14,6 +14,7 @@ These results highlight YOLOv12’s capacity for simultaneous detection and segm
 -  [Kaggle - rohit_rawat25: Multi Eye Disease Fundus Image Dataset (Combined)](https://www.kaggle.com/datasets/rohitrawat25/combined-fundus-images/data)
 -  [Kaggle - Kris Dcosta & bhavisha chafekar: ARMD Combined Dataset (Fundus and OCT)](https://www.kaggle.com/datasets/saketlad/armd-combined-dataset-fundus-and-oct/data)
 -  [Kaggle - iam_achal: Fundus Image Dataset](https://www.kaggle.com/datasets/iamachal/fundus-image-dataset)
+-  [Roboflow - (Our Group's Combined Dataset)](https://universe.roboflow.com/felipe-m-panugan-iii/fundus-detection-lwc5t/dataset/2)
 ## 📄 File Description:
 <pre>
 📂 AI2-Project-AM2-HealthPath Discovery/
