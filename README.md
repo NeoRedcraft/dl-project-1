@@ -15,34 +15,11 @@ These results highlight YOLOv12’s capacity for simultaneous detection and segm
 - [Kaggle - Kris Dcosta & bhavisha chafekar: ](https://www.kaggle.com/datasets/saketlad/armd-combined-dataset-fundus-and-oct/data)
 - [Kaggle - iam_achal: ](https://www.kaggle.com/datasets/iamachal/fundus-image-dataset)
 ## 📄 File Description:
-project-root/
-│
-├── src/                     # Main source code
-│   ├── components/          # Reusable components or modules
-│   ├── utils/               # Helper/utility functions
-│   └── main.py              # Entry point script
-│
-├── data/                    # Dataset, raw files, assets
-│   ├── raw/                 # Unprocessed data
-│   └── processed/           # Cleaned/structured data
-│
-├── models/                  # Trained ML/DL models
-│   └── best_model.pt
-│
-├── notebooks/               # Jupyter notebooks for experiments
-│   └── analysis.ipynb
-│
-├── results/                 # Output logs, graphs, images
-│   ├── charts/              # Plots/visualizations
-│   └── metrics/             # Performance scores
-│
-├── scripts/                 # Bash or helper scripts
-│   └── deploy.sh
-│
-├── tests/                   # Unit tests
-│   └── test_utils.py
-│
-├── requirements.txt         # Dependencies list
-├── README.md                # Documentation overview
-├── .gitignore               # Ignored files list
-└── LICENSE                  # License info
+`AI2-Project-AM2-HealthPath Discovery/'
+├──`Evidence of model testing .pdf' - 
+├──'IEEE Paper Final.pdf' -
+├──'Latest_Final.ipynb'
+├──'runs/' - 
+├──'Test.v2i.yolov12/' -
+├──'Web Deployment Code' -
+├──
