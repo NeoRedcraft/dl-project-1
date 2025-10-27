@@ -10,10 +10,12 @@ age-related macular degeneration (AMD), and pathologic myopia. The dataset was d
 After 606 epochs, the model achieved a mean Average Precision (mAP@0.5) of 0.93 and mAP@0.5:0.95 of 0.767, demonstrating both excellent localization accuracy and strong generalization across ocular disease classes. 
 These results highlight YOLOv12’s capacity for simultaneous detection and segmentation, indicating its potential for real-time ophthalmic screening applications.
 ## 📊 Dataset:
+<pre>
 ├──  [Mendeley Data - Md Aiyub Ali: Fundus Image Dataset for Age-Related Macular Degeneration Disease Detection](https://data.mendeley.com/datasets/yj35kjgrv3/1)
 ├──  [Kaggle - rohit_rawat25: Multi Eye Disease Fundus Image Dataset (Combined)](https://www.kaggle.com/datasets/rohitrawat25/combined-fundus-images/data)
 ├──  [Kaggle - Kris Dcosta & bhavisha chafekar: ARMD Combined Dataset (Fundus and OCT)](https://www.kaggle.com/datasets/saketlad/armd-combined-dataset-fundus-and-oct/data)
 ├──  [Kaggle - iam_achal: Fundus Image Dataset](https://www.kaggle.com/datasets/iamachal/fundus-image-dataset)
+</pre>
 ## 📄 File Description:
 <pre>
 📂 AI2-Project-AM2-HealthPath Discovery/
